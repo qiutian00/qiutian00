@@ -1,9 +1,7 @@
 ### doing 👋
 
 - reading books.
-- leaft map use.
-- developing html5 app.
-- learning flutter.
+- developing.
 
 
 Actively participate in open source.
