@@ -1,7 +1,8 @@
 ### doing 👋
 
-- reading books.
-- developing.
+- reading books
+- developing
+- [sponsoring](https://github.com/qiutian00?tab=sponsoring)
 
 
 Actively participate in open source.
