@@ -29,3 +29,23 @@ const tmpl = `
 `;
 
 fs.writeFileSync(path.join(__dirname, './index.html'), tmpl, 'utf8');
+
+// https://github.com/puppeteer/puppeteer/issues/10388#issuecomment-1780202103
+// $ node node_modules/puppeteer/install.mjs
+const puppeteer = require('puppeteer');
+
+async function generateImage() {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+
+  // Load the HTML page
+  await page.goto(`file://${__dirname}/index.html`, { waitUntil: 'networkidle0' });
+
+  // Generate the screenshot
+  await page.screenshot({ path: 'screenshot.png', fullPage: true });
+
+  // Close the browser
+  await browser.close();
+}
+
+generateImage();
