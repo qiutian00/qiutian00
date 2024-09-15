@@ -5,6 +5,7 @@
 - developing
 - [sponsoring](https://github.com/qiutian00?tab=sponsoring)
 - [npm packages](https://www.npmjs.com/~qiutian00)
+- [shell on mac](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) or [nushell on windows](https://www.nushell.sh/book/)
 
 ### some packages
 - [web-performance-tracer](https://github.com/qiutian00/web-performance-tracer)：🛠️网页性能监控 18 项数据指标，错误收集上报。[![npm](https://img.shields.io/npm/v/web-performance-tracer.svg)](https://npmjs.com/package/web-performance-tracer)     [![](https://img.shields.io/npm/dt/web-performance-tracer?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/web-performance-tracer)
