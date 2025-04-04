@@ -32,6 +32,10 @@ Here are some of my favorite projects that I’m excited about:
 - **[Tabs Bridge](https://github.com/qiutian00/tabs-bridge)**: 🌿 Facilitate communication between browser tabs.
   [![npm](https://img.shields.io/npm/v/tabs-bridge.svg)](https://npmjs.com/package/tabs-bridge) [![](https://img.shields.io/npm/dt/tabs-bridge?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/tabs-bridge)
 
+- **[Antd Virtualized Table](https://github.com/qiutian00/antd-virtualized-table)**: :
+🐹 A powerful library designed to enhance the performance of Ant Design tables by adding virtual scrolling capabilities.
+  [![npm](https://img.shields.io/npm/v/antd-virtualized-table.svg)](https://npmjs.com/package/antd-virtualized-table) [![](https://img.shields.io/npm/dt/antd-virtualized-table?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/antd-virtualized-table)
+
 ## Get In Touch
 
 - 💬 **Actively participating in open source.** Feel free to reach out if you want to collaborate or just chat!
