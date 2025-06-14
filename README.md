@@ -1,7 +1,5 @@
 # Hi there, I'm Qiutian 👋
 
-Welcome to my GitHub profile! Here’s a glimpse of what I’m up to:
-
 ## What I’m Doing
 
 - 📚 **Reading Books**: Exploring new ideas and concepts.
@@ -38,8 +36,9 @@ Here are some of my favorite projects that I’m excited about:
 
 ## Get In Touch
 
-- 💬 **Actively participating in open source.** Feel free to reach out if you want to collaborate or just chat!
+- **wechat**
+<p>
+    <img src="https://fastly.jsdelivr.net/gh/bucketio/img16@main/2025/06/14/1749907694490-808a8729-17c1-466d-a95e-9c77e85de1f3.jpg" style="width: 140px;">
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qiutian00&style=plastic)
-
-Thank you for visiting my profile! 🌟
